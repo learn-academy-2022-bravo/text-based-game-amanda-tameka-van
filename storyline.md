@@ -20,12 +20,18 @@ You've just gotten off the bus ride from work, heading home to finally relax and
             - No directions for escape when 2nd phone alert happens
             - Last meal
 
+
+
 2. Special powers to pick from
     - Good thing you wore your special aluminum foil hat to work today. It has protected you from Harvey Dent skin and you are now able to harness the radioactivity into a special power.
     - Choose one:
         Transform one liquid into another
         Instant battery charging (walking lithium ionizer)
         Communicate with fruit
+
+
+
+
 
 3. Here is your survival kit
     - default items:
@@ -37,6 +43,8 @@ You've just gotten off the bus ride from work, heading home to finally relax and
         pillow case
         javascript for dummies (hardcover manual)
 
+
+Fight zombie or 2nd alert
 
 4. Another phone alert (pick a get away method)
 
